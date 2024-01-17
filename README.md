@@ -1,2 +1,2 @@
 # E-commerce
- *  developed using React.js, MongoDB and TailwindCSS
+ *  developed using React.js and MongoDB
