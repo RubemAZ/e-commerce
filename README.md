@@ -1,7 +1,8 @@
-# A generic template of e-commerce 
+# Template of e-commerce 
  *  developed using React.js and MongoDB
 
-# How to start :
+# How to start:
+## Front end:
  - open the terminal shel;
  - $ git clone ...
  - $ npm install
